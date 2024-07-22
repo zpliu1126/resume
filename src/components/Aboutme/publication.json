@@ -1,0 +1,50 @@
+{
+  "item": [
+    {
+      "title": "Regulatory controls of duplicated gene expression during fiber development in allotetraploid cotton",
+      "journal": "Nat Genet",
+      "volume": "55(11):1987-1997",
+      "year": "2023",
+      "doi": "https://doi.org/10.1038/s41588-023-01530-8",
+      "firstAuthor": ["Jiaqi You", "Zhenping Liu", "Zhengyang Qi", "Yizan Ma"],
+      "correspondingAuthor": ["Lili Tu", "Xianlong Zhang", "Maojun Wang"],
+      "otherAuthor": [
+        "Mengling Sun",
+        "Ling Su",
+        "Hao Niu",
+        "Yabing Peng",
+        "Xuanxuan Luo",
+        "Mengmeng Zhu",
+        "Yuefan Huang",
+        "Xing Chang",
+        "Xiubao Hu",
+        "Yuqi Zhang",
+        "Ruizhen Pi",
+        "Yuqi Liu",
+        "Qingying Meng",
+        "Jianying Li",
+        "Qinghua Zhang",
+        "Longfu Zhu",
+        "Zhongxu Lin",
+        "Ling Min",
+        "Daojun Yuan",
+        "Corrinne E Grover",
+        "David D Fang",
+        "Keith Lindsey",
+        "Jonathan F Wendel"
+      ]
+    },
+    {
+      "title": "Pangenome analysis reveals transposon-driven genome evolution in cotton",
+      "journal": "BMC Biol",
+      "volume": "22(1):92",
+      "year": "2024",
+      "doi": "https://doi.org/10.1186/s12915-024-01893-2",
+      "firstAuthor": ["Xin He"],
+      "correspondingAuthor": ["Jianying Li", "Maojun Wang"],
+      "otherAuthor": [
+        "Zhengyang Qi", "Zhenping Liu", "Xing Chang", "Xianlong Zhang"
+      ]
+    }
+  ]
+}
