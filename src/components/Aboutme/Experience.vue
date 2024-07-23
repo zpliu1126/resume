@@ -4,7 +4,7 @@
  * @Author: zpliu
  * @Date: 2024-07-22 16:10:31
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 17:40:45
+ * @LastEditTime: 2024-07-23 21:42:00
  * @@param: 
 -->
 <template>
@@ -41,19 +41,19 @@
 import { ref } from "vue";
 const activities = ref([
   {
-    content: "华中农业大学-博士研究生",
-    timestamp: "2021/09/01",
+    content: "华中农业大学-博士研究生（作物遗传育种）",
+    timestamp: "2021/09/01 - now",
     size: "large",
     type: "primary",
   },
   {
-    content: "华中农业大学-硕士研究生",
-    timestamp: "2019/09/01",
+    content: "华中农业大学-硕士研究生 （作物遗传育种）",
+    timestamp: "2019/09/01 - 2021/09/01",
     color: "#0bbd87",
   },
   {
-    content: "华中农业大学-本科",
-    timestamp: "2015/09/01",
+    content: "华中农业大学-本科（植物科学与技术）",
+    timestamp: "2015/09/01 - 2019/09/01",
     size: "large",
   },
 ]);

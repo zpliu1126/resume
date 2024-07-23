@@ -4,7 +4,7 @@
  * @Author: zpliu
  * @Date: 2024-07-22 16:10:31
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 19:55:01
+ * @LastEditTime: 2024-07-23 21:22:58
  * @@param: 
 -->
 <template>
@@ -14,17 +14,6 @@
     </el-col>
     <el-col :xs="24" :sm="24" :md="12" :lg="12" :xl="12" class="item-content">
       <ul>
-        <li>
-          <div>
-            <h3>编程能力</h3>
-            <ul>
-              <li><p>Linux</p></li>
-              <li><p>Python</p></li>
-              <li><p>R</p></li>
-              <li><p>snakemake</p></li>
-            </ul>
-          </div>
-        </li>
         <div>
           <h3>生物信息学训练</h3>
           <ul>
@@ -63,6 +52,15 @@
             <li>
               <p>熟练运用英文进行科研论文写作，并具有一定的论文审稿经验。</p>
             </li>
+          </ul>
+        </div>
+        <div>
+          <h3>编程能力</h3>
+          <ul>
+            <li><p>Linux</p></li>
+            <li><p>Python</p></li>
+            <li><p>R</p></li>
+            <li><p>snakemake</p></li>
           </ul>
         </div>
       </ul>

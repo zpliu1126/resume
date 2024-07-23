@@ -4,7 +4,7 @@
  * @Author: zpliu
  * @Date: 2024-07-22 16:10:31
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 19:39:01
+ * @LastEditTime: 2024-07-23 21:41:49
  * @@param: 
 -->
 <template>
@@ -47,19 +47,19 @@
 import { ref } from "vue";
 const activities = ref([
   {
-    content: "Huazhong agricultural university-phd candidate",
-    timestamp: "2021/09/01",
+    content: "PhD candidate (Crop Genetics and Breeding), Huazhong agricultural university",
+    timestamp: "2021/09/01 - now",
     size: "large",
     type: "primary",
   },
   {
-    content: "Huazhong agricultural university-master student",
-    timestamp: "2019/09/01",
+    content: "M.S. (Crop Genetics and Breeding), Huazhong agricultural university",
+    timestamp: "2019/09/01 - 2021/09/01",
     color: "#0bbd87",
   },
   {
-    content: "Huazhong agricultural university-undergraduate",
-    timestamp: "2015/09/01",
+    content: "B.S. (Plant Science and Technolog), Huazhong agricultural university",
+    timestamp: "2015/09/01 - 2019/09/01",
     size: "large",
   },
 ]);
