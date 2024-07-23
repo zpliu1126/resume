@@ -4,13 +4,13 @@
  * @Author: zpliu
  * @Date: 2024-07-22 16:10:31
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 17:41:37
+ * @LastEditTime: 2024-07-23 19:45:09
  * @@param: 
 -->
 <template>
   <el-row justify="center" :gutter="10" align="top" class="itemDat" id="publication">
     <el-col :xs="24" :sm="24" :md="6" :lg="6" :xl="6" class="item-title">
-      <h2>发表论文</h2>
+      <h2>Publications</h2>
     </el-col>
     <el-col :xs="24" :sm="24" :md="12" :lg="12" :xl="12" class="item-content">
       <ol class="publicationInfo">

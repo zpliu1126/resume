@@ -4,7 +4,7 @@
  * @Author: zpliu
  * @Date: 2024-07-22 16:10:31
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 17:41:57
+ * @LastEditTime: 2024-07-23 20:02:31
  * @@param: 
 -->
 <template>
@@ -16,23 +16,23 @@
     id="project"
   >
     <el-col :xs="24" :sm="24" :md="6" :lg="6" :xl="6" class="item-title">
-      <h2>科研&项目</h2>
+      <h2>Project</h2>
     </el-col>
     <el-col :xs="24" :sm="24" :md="12" :lg="12" :xl="12" class="item-content">
       <ul>
         <li>
           <span
-            >基于群体转录组解析四倍体陆地棉纤维发育过程中基因表达调控网络</span
+            >Decipher the gene expression regulatory network during the development of tetraploid upland cotton fibers based on population transcriptome analysis.</span
           >
         </li>
-        <li><span>基于多个高质量参考基因组，开展棉属泛基因组研究</span></li>
+        <li><span>Conduct pan-genome research of the genus Gossypium based on multiple high-quality reference genomes.</span></li>
         <li>
           <span
-            >基于群体转录组和Nanopore三代转录组数据，开展基因剪接调控网络分析</span
+            >Conduct analysis of gene splicing regulatory networks based on population transcriptome and nanopore sequence data.</span
           >
         </li>
         <li>
-          <span>比较基因组揭示棉花多倍化过程中cis调控元件的进化分歧</span>
+          <span>Comparative genomics reveal the evolutionary divergence of cis-regulatory elements during the polyploidization process of cotton.</span>
         </li>
       </ul>
     </el-col>

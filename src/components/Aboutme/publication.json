@@ -35,6 +35,32 @@
       ]
     },
     {
+      "title": "Cotton pan-genome retrieves the lost sequences and genes during domestication and selection",
+      "journal": "Genome Biol",
+      "volume": "22(1):92",
+      "year": "2021",
+      "doi": "https://doi.org/10.1186/s13059-021-02351-w",
+      "firstAuthor": ["Jianying Li"],
+      "correspondingAuthor": ["Shuangxia Ji", "Maojun Wang"],
+      "otherAuthor": [
+        "Daojun Yuan",
+        "Pengcheng Wang",
+        "Qiongqiong Wang",
+        "Mengling Sun",
+        "Zhenping Liu",
+        "Huan Si",
+        "Zhongping Xu",
+        "Yizan Ma",
+        "Boyang Zhang",
+        "Liuling Pei",
+        "Lili Tu",
+        "Longfu Zhu",
+        "Ling-Ling Chen",
+        "Keith Lindsey",
+        "Xianlong Zhang"
+      ]
+    },
+    {
       "title": "Pangenome analysis reveals transposon-driven genome evolution in cotton",
       "journal": "BMC Biol",
       "volume": "22(1):92",
@@ -43,7 +69,159 @@
       "firstAuthor": ["Xin He"],
       "correspondingAuthor": ["Jianying Li", "Maojun Wang"],
       "otherAuthor": [
-        "Zhengyang Qi", "Zhenping Liu", "Xing Chang", "Xianlong Zhang"
+        "Zhengyang Qi",
+        "Zhenping Liu",
+        "Xing Chang",
+        "Xianlong Zhang"
+      ]
+    },
+    {
+      "title": "Genomic innovation and regulatory rewiring during evolution of the cotton genus Gossypium",
+      "journal": "Nat Genet",
+      "volume": "54,12",
+      "year": "2022",
+      "doi": "https://doi.org/10.1038/s41588-022-01237-2",
+      "firstAuthor": [
+        "Maojun Wang",
+        "Jianying Li",
+        "Zhengyang Qi",
+        "Yuexuan Long"
+      ],
+      "correspondingAuthor": ["Jonathan F. Wendel", "Xianlong Zhang"],
+      "otherAuthor": [
+        "Liuling Pei",
+        "Xianhui Huang",
+        "Corrinne E. Grover",
+        "Xiongming Du",
+        "Chunjiao Xia",
+        "Pengcheng Wang",
+        "Zhenping Liu",
+        "Jiaqi You",
+        "Xuehan Tian",
+        "Yizan Ma",
+        "Ruipeng Wang",
+        "Xinyuan Chen",
+        "Xin He",
+        "David D. Fang",
+        "Yuqiang Sun",
+        "Lili Tu",
+        "Shuangxia Jin",
+        "Longfu Zhu"
+      ]
+    },
+    {
+      "title": "Reference genome sequences of two cultivated allotetraploid cottons, Gossypium hirsutum and Gossypium barbadense",
+      "journal": "Nat Genet",
+      "volume": "51(2), 224-229",
+      "year": "2019",
+      "doi": "https://doi.org/10.1038/s41588-018-0282-x",
+      "firstAuthor": ["Maojun Wang", "Lili Tu", "Daojun Yuan"],
+      "correspondingAuthor": [
+        "Keith Lindsey",
+        "Zhongxu Lin",
+        "Joshua A. Udall",
+        "Xianlong Zhang"
+      ],
+      "otherAuthor": [
+        "De Zhu",
+        "Chao Shen",
+        "Jianying Li",
+        "Fuyan Liu",
+        "Liuling Pei",
+        "Pengcheng Wang",
+        "Guannan Zhao",
+        "Zhengxiu Ye",
+        "Hui Huang",
+        "Feilin Yan",
+        "Yizan Ma",
+        "Lin Zhang",
+        " Min Liu",
+        "Jiaqi You",
+        "Yicheng Yang",
+        "Zhenping Liu",
+        "Fan Huang",
+        "Baoqi Li",
+        "Ping Qiu",
+        "Qinghua Zhang",
+        "Longfu Zhu",
+        "Shuangxia Jin",
+        "Xiyan Yang",
+        "Ling Min",
+        "Guoliang Li",
+        "Ling-Ling Chen",
+        "Hongkun Zheng"
+      ]
+    },
+    {
+      "title": "Comparative Genome Analyses Highlight Transposon-Mediated Genome Expansion and the Evolutionary Architecture of 3D Genomic Folding in Cotton",
+      "journal": "Mol Biol Evol",
+      "volume": "38(9), 3621-363",
+      "year": "2021",
+      "doi": "https://doi.org/10.1093/molbev/msab128",
+      "firstAuthor": ["Maojun Wang", "Jianying Li"],
+      "correspondingAuthor": [
+        "Jonathan F Wendel",
+        "Kunbo Wang",
+        "Xianlong Zhang"
+      ],
+      "otherAuthor": [
+        "Pengcheng Wang",
+        "Fang Liu",
+        "Zhenping Liu",
+        "Guannan Zhao",
+        "Zhongping Xu",
+        "Liuling Pei",
+        "Corrinne E Grover"
+      ]
+    },
+    {
+      "title": "Tcbf: a novel user-friendly tool for pan-3D genome analysis of topologically associating domain in eukaryotic organisms",
+      "journal": "Bioinformatics",
+      "volume": "39,9",
+      "year": "2023",
+      "doi": "https://doi.org/10.1093/bioinformatics/btad576",
+      "firstAuthor": ["Xin He"],
+      "correspondingAuthor": ["Maojun Wang"],
+      "otherAuthor": [
+        "Xianhui Huang",
+        "Yuexuan Long",
+        "Zhenping Liu",
+        "Xing Chang",
+        "Xianlong Zhang"
+      ]
+    },
+    {
+      "title": "Dynamic 3D genome architecture of cotton fiber reveals subgenome-coordinated chromatin topology for 4-staged single-cell differentiation",
+      "journal": "Genome Biol",
+      "volume": "23,45",
+      "year": "2022",
+      "doi": "https://doi.org/10.1186/s13059-022-02616-y",
+      "firstAuthor": ["Liuling Pei", "Xianhui Huang"],
+      "correspondingAuthor": ["Xianlong Zhang", "Maojun Wang"],
+      "otherAuthor": [
+        "Zhenping Liu",
+        "Xuehan Tian",
+        "Jiaqi You",
+        "Jianying Li",
+        "David D. Fang",
+        "Keith Lindsey",
+        "Longfu Zhu"
+      ]
+    },
+    {
+      "title": "Disruption of topologically associating domains by structural variations in tetraploid cottons",
+      "journal": "Genomics",
+      "volume": "113(5), 3405-3414",
+      "year": "2021",
+      "doi": "https://doi.org/10.1016/j.ygeno.2021.07.023",
+      "firstAuthor": ["Yuexuan Long"],
+      "correspondingAuthor": ["Maojun Wang"],
+      "otherAuthor": [
+        "Zhenping Liu",
+        "Pengcheng Wang",
+        "Hang Yang",
+        "Yuejin Wang",
+        "Sainan Zhang"
       ]
     }
   ]

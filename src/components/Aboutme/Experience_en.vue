@@ -4,16 +4,22 @@
  * @Author: zpliu
  * @Date: 2024-07-22 16:10:31
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 17:40:45
+ * @LastEditTime: 2024-07-23 19:39:01
  * @@param: 
 -->
 <template>
-  <el-row justify="center" :gutter=10 align="top" class="itemDat" id="experience">
+  <el-row
+    justify="center"
+    :gutter="10"
+    align="top"
+    class="itemDat"
+    id="experience"
+  >
     <el-col :xs="24" :sm="24" :md="6" :lg="6" :xl="6" class="item-title">
-      <h2>教育经历</h2>
+      <h2>Education</h2>
     </el-col>
     <el-col :xs="24" :sm="24" :md="12" :lg="12" :xl="12" class="item-content">
-      <el-timeline  class="timeline">
+      <el-timeline class="timeline">
         <el-timeline-item
           v-for="(activity, index) in activities"
           :key="index"
@@ -41,25 +47,25 @@
 import { ref } from "vue";
 const activities = ref([
   {
-    content: "华中农业大学-博士研究生",
+    content: "Huazhong agricultural university-phd candidate",
     timestamp: "2021/09/01",
     size: "large",
     type: "primary",
   },
   {
-    content: "华中农业大学-硕士研究生",
+    content: "Huazhong agricultural university-master student",
     timestamp: "2019/09/01",
     color: "#0bbd87",
   },
   {
-    content: "华中农业大学-本科",
+    content: "Huazhong agricultural university-undergraduate",
     timestamp: "2015/09/01",
     size: "large",
   },
 ]);
 </script>
 <style scoped>
-#experience{
+#experience {
   padding-top: 50px;
 }
 .item-title {

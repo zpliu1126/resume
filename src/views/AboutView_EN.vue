@@ -2,9 +2,18 @@
  * @Descripttion: 
  * @version: 
  * @Author: zpliu
+ * @Date: 2024-07-23 19:26:24
+ * @LastEditors: zpliu
+ * @LastEditTime: 2024-07-23 20:12:13
+ * @@param: 
+-->
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: zpliu
  * @Date: 2024-07-22 11:54:34
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 20:12:01
+ * @LastEditTime: 2024-07-23 16:37:31
  * @@param: 
 -->
 <template>
@@ -16,33 +25,37 @@
     <el-col :xs="24" :sm="24" :md="12" :lg="12" :xl="12">
       <div class="InfoText">
         <div>
-          <h1>刘振平</h1>
+          <h1>Zhenping Liu</h1>
         </div>
         <div class="infoIcon">
-          <el-icon :size="size" :color="color"> <InfoFilled /></el-icon>个人信息
+          <el-icon :size="size" :color="color"> <InfoFilled /></el-icon
+          >information
         </div>
         <div>
-          <h4>籍贯：</h4>
-          <span> 江西抚州</span>
+          <h4>Native place:</h4>
+          <span> JiangXi fuzhou</span>
         </div>
         <div>
-          <h4>出生年月：</h4>
+          <h4>Birth date:</h4>
           <span> 1996/11/26</span>
         </div>
         <div>
-          <h4>通讯地址：</h4>
-          <span> 湖北省武汉市洪山区狮子山大道1号，华中农业大学</span>
+          <h4>Corresponding address:</h4>
+          <span>
+            No.1 Shizishan Street, Hongshan District, Wuhan, Hubei Province,
+            China</span
+          >
         </div>
         <div>
-          <h4>联系方式：</h4>
+          <h4>Contact:</h4>
           <ul>
             <li>
-              <h5>邮箱：</h5>
-              <span>zpliu_x@qq.com</span>
+              <h5>email:</h5>
+              <span> zpliu_x@qq.com</span>
             </li>
             <li>
-              <h5>微信：</h5>
-              <span>15071228394</span>
+              <h5>phone:</h5>
+              <span> (+86) 15071228394</span>
             </li>
           </ul>
         </div>
@@ -75,11 +88,11 @@
 <script setup>
 import { ref } from "vue";
 import userAvatar from "../components/Aboutme/userAvatar.vue";
-import Experience from "../components/Aboutme/Experience.vue";
-import Publish from "../components/Aboutme/publish.vue";
-import Skill from "../components/Aboutme/skill.vue";
-import Train from "../components/Aboutme/train.vue";
-import HeaderNav from "../components/Aboutme/header.vue";
+import Experience from "../components/Aboutme/Experience_en.vue";
+import Publish from "../components/Aboutme/publication_en.vue";
+import Skill from "../components/Aboutme/skills_en.vue";
+import Train from "../components/Aboutme/train_en.vue";
+import HeaderNav from "../components/Aboutme/header_en.vue";
 
 let color = ref("grey");
 let size = ref(24);

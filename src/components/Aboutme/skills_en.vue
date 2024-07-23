@@ -4,19 +4,19 @@
  * @Author: zpliu
  * @Date: 2024-07-22 16:10:31
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 19:55:01
+ * @LastEditTime: 2024-07-23 19:55:33
  * @@param: 
 -->
 <template>
   <el-row justify="center" :gutter="10" align="top" class="itemDat" id="skill">
     <el-col :xs="24" :sm="24" :md="6" :lg="6" :xl="6" class="item-title">
-      <h2>个人技能</h2>
+      <h2>Skills</h2>
     </el-col>
     <el-col :xs="24" :sm="24" :md="12" :lg="12" :xl="12" class="item-content">
       <ul>
         <li>
           <div>
-            <h3>编程能力</h3>
+            <h3>Programme</h3>
             <ul>
               <li><p>Linux</p></li>
               <li><p>Python</p></li>
@@ -26,42 +26,42 @@
           </div>
         </li>
         <div>
-          <h3>生物信息学训练</h3>
+          <h3>Bioinformatics training</h3>
           <ul>
             <li>
               <p>
-                <span>群体遗传学：</span
-                >基于群体重测序开展物种驯化选择区间鉴定，结合转录组数据数据鉴定eQT/sQTL，并使用TWAS等方法进行QTL候选基因的定位。
+                <span>population genetics: </span
+                >Identify domestication selection regions through population resequencing, identify eQTL/sQTL by integrating transcriptome data, and prioritize candidate genes for QTL using methods such as TWAS.
               </p>
             </li>
             <li>
               <p>
-                <span>比较基因组学：</span
-                >基于高质量参考基因组数据，开展单个或多个物种间的泛基组分析。
+                <span>Comparative genomics: </span
+                >Conduct pan-genome analysis between a single or multiple species based on high-quality reference genome data.
               </p>
             </li>
             <li>
-              <p><span>转录组：</span>常规RNA-seq分析以及鉴定差异表达基因。</p>
+              <p><span>Transcriptome: </span>Routine RNA-seq analysis and identification of differentially expressed genes.</p>
             </li>
             <li>
               <p>
-                <span>表观基因组：</span>DNA甲基化、ATAC以及Hi-C等常规分析。
+                <span>Epigenome: </span>DNA methylation, ATAC and Hi-C analysis
               </p>
             </li>
             <li>
               <p>
-                <span>基因组组装与注释：</span
-                >三代测序基因组组装、基因结构注释、转录本组装。
+                <span>Genome assembly and annotation: </span
+                >Genome assembly, gene structure annotation, and transcript assembly.
               </p>
             </li>
           </ul>
         </div>
         <div>
-          <h3>科研素养</h3>
+          <h3>Research literacy</h3>
           <ul>
-            <li><p>高效的文献分类、管理、检索工作流。</p></li>
+            <li><p>Efficient workflow for literature classification, management, and retrieval.</p></li>
             <li>
-              <p>熟练运用英文进行科研论文写作，并具有一定的论文审稿经验。</p>
+              <p>Proficient in writing scientific papers in English and has some experience in peer review of papers.</p>
             </li>
           </ul>
         </div>
