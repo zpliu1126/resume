@@ -4,7 +4,7 @@
  * @Author: zpliu
  * @Date: 2024-07-23 16:11:53
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 21:11:24
+ * @LastEditTime: 2025-01-16 20:30:51
  * @@param: 
 -->
 <template>
@@ -12,8 +12,8 @@
     <el-button type="primary">Offset top 120px</el-button>
   </el-affix> -->
   <div id="header">
-    <div class="affix-fix"></div>
-    <el-affix :offset="10" position="top" :z-index="100">
+    <!-- <div class="affix-fix"></div> -->
+    <!-- <el-affix :offset="10" position="top" :z-index="100"> -->
       <el-row justify="center" align="middle">
         <el-col :xs="24" :sm="24" :md="18" :lg="18" :xl="18">
           <el-anchor :offset="0" direction="horizontal">
@@ -33,13 +33,15 @@
           </el-anchor>
         </el-col>
       </el-row>
-    </el-affix>
+    <!-- </el-affix> -->
   </div>
 </template>
 
 <script setup>
 import { ref } from "vue";
-import { useRouter } from "vue-router";
+import { useRouter } from "vue-router"
+import { useWindowStore } from '@/stores/homeStore'
+const store = useWindowStore()
 const router = useRouter();
 let language = ref(true);
 const PageChange = function () {
@@ -61,6 +63,10 @@ const PageChange = function () {
 }
 #header {
   width: 100%;
+  position: fixed;
+  z-index: 999;
+  height: 20px;
+  top: 0px;
   .el-row {
     background: #1d191a;
   }
@@ -69,13 +75,13 @@ const PageChange = function () {
     justify-content: center;
   }
 }
-.affix-fix {
-  position: fixed;
-  height: 10px;
-  width: 100%;
-  background: #1d191a;
-  z-index: 100;
-}
+// .affix-fix {
+//   position: fixed;
+//   height: 10px;
+//   width: 100%;
+//   background: #1d191a;
+//   z-index: 100;
+// }
 :deep(.el-anchor--horizontal) {
   background: #1d191a;
   a {

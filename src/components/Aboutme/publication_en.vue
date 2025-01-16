@@ -4,7 +4,7 @@
  * @Author: zpliu
  * @Date: 2024-07-22 16:10:31
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 19:45:09
+ * @LastEditTime: 2025-01-16 21:05:48
  * @@param: 
 -->
 <template>
@@ -22,9 +22,6 @@
           <div v-html="publicationHTML(item)"></div>
         </li>
       </ol>
-    </el-col>
-    <el-col :xs="24" :sm="24" :md="18" :lg="18" :xl="18">
-      <el-divider />
     </el-col>
   </el-row>
 </template>

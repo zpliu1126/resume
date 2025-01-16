@@ -4,7 +4,7 @@
  * @Author: zpliu
  * @Date: 2024-07-22 11:54:34
  * @LastEditors: zpliu
- * @LastEditTime: 2024-07-23 20:12:01
+ * @LastEditTime: 2025-01-16 20:16:17
  * @@param: 
 -->
 <template>
@@ -55,6 +55,7 @@
     <Train />
     <Publish />
   </div>
+  <Footer></Footer>
   <el-backtop :right="100" :bottom="100"
     ><div
       style="
@@ -80,7 +81,7 @@ import Publish from "../components/Aboutme/publish.vue";
 import Skill from "../components/Aboutme/skill.vue";
 import Train from "../components/Aboutme/train.vue";
 import HeaderNav from "../components/Aboutme/header.vue";
-
+import Footer from "../components/footer.vue";
 let color = ref("grey");
 let size = ref(24);
 </script>

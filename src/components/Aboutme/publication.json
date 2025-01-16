@@ -1,6 +1,62 @@
 {
   "item": [
     {
+      "title": "Convergence and divergence of diploid and tetraploid cotton genomes",
+      "journal": "Nature Genetics",
+      "volume": " 56(11):2562-2573",
+      "year": "2024",
+      "doi": "https://doi.org/10.1038/s41588-024-01964-8",
+      "firstAuthor": ["Jianying Li", "Zhenping Liu", "Chunyuan You"],
+      "correspondingAuthor": ["Xianlong Zhang", "Maojun Wang"],
+      "otherAuthor": [
+        "Zhengyang Qi",
+        "Jiaqi You",
+        "Corrinne E. Grover",
+        "Yuexuan Long",
+        "Xianhui Huang",
+        "Sifan Lu",
+        "Yuejin Wang",
+        "Sainan Zhang",
+        "Yawen Wang",
+        "Ruizhe Bai",
+        "Mengke Zhang",
+        "Shuangxia Jin",
+        "Xinhui Nie",
+        "Jonathan F. Wendel"
+      ]
+    },
+    {
+      "title": "Genomic innovation and regulatory rewiring during evolution of the cotton genus Gossypium",
+      "journal": "Nature Genetics",
+      "volume": "54(12):1959-1971",
+      "year": "2022",
+      "doi": "https://doi.org/10.1038/s41588-022-01237-2",
+      "firstAuthor": [
+        "Maojun Wang",
+        "Jianying Li",
+        "Zhengyang Qi",
+        "Yuexuan Long"
+      ],
+      "correspondingAuthor": ["Jonathan F. Wendel", "Xianlong Zhang"],
+      "otherAuthor": [
+        "Daojun Yuan",
+        "Pengcheng Wang",
+        "Qiongqiong Wang",
+        "Mengling Sun",
+        "Zhenping Liu",
+        "Huan Si",
+        "Zhongping Xu",
+        "Yizan Ma",
+        "Boyang Zhang",
+        "Liuling Pei",
+        "Lili Tu",
+        "Longfu Zhu",
+        "Ling-Ling Chen",
+        "Keith Lindsey",
+        "Xianlong Zhang"
+      ]
+    },
+    {
       "title": "Regulatory controls of duplicated gene expression during fiber development in allotetraploid cotton",
       "journal": "Nat Genet",
       "volume": "55(11):1987-1997",
